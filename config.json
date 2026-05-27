@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpereonnect",
+        "uuid": 5260701,
+        "checksum": "w8rj0s"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
